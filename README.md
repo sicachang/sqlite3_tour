@@ -34,5 +34,5 @@ select * from _資服業;
 - csvToSQL
 https://blog.pulipuli.info/2017/11/csv-to-sql-tablecsv-import-csv-file.html#postcatacsv-to-sql-tablecsv-import-csv-file.html0_anchor1 
 
-# sqllite 操控介面
-...未更新
+# sqllite 操控介面(db browser)
+https://sqlitebrowser.org/dl/ 
