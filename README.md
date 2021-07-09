@@ -44,3 +44,7 @@ next -> I accept.. -> choose both two iterm in left side (SQLite) -> next -> ins
 ```cmd
 from start memu -> search `DB Browser`-> run 
 ```
+- 開啟資料庫
+```cmd
+菜單-> 打開資料庫 -> 選擇DB (如：D:\sqlite3\digital.db) 
+```
