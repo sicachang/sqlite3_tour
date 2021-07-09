@@ -48,3 +48,8 @@ from start memu -> search `DB Browser`-> run
 ```cmd
 菜單-> 打開資料庫 -> 選擇DB (如：D:\sqlite3\digital.db) 
 ```
+
+- 移除資料表(測試時誤新增之資料表)
+```cmd
+資料表點右鍵(如：_i1)-> 刪除資料表
+```
