@@ -40,3 +40,7 @@ https://sqlitebrowser.org/dl/
 ```cmd
 next -> I accept.. -> choose both two iterm in left side (SQLite) -> next -> install 
 ```
+- 運行 
+```cmd
+from start memu -> search `DB Browser`-> run 
+```
