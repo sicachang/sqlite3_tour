@@ -55,9 +55,11 @@ from start memu -> search `DB Browser`-> run
 ```
 
 - 查詢資料表(如：查詢`_資服業 `資料表)
--- 點選執行SQL -> 貼上
+-- 點選執行SQL -> 貼上 ->  `F5` 運行
 
 ```sql
 select * from _資服業;
 ```
--- `F5` 運行
+
+ 
+ 
