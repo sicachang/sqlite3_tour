@@ -36,3 +36,7 @@ https://blog.pulipuli.info/2017/11/csv-to-sql-tablecsv-import-csv-file.html#post
 
 # sqllite 操控介面(db browser)
 https://sqlitebrowser.org/dl/ 
+- 安裝 
+```cmd
+next -> I accept.. -> choose both two iterm in left side (SQLite) -> next -> install 
+```
